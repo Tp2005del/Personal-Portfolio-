@@ -1,0 +1,171 @@
+*{
+    font-family: "Inter", serif;
+     
+}
+body{
+    background-color: #f5bb9b;
+    color: white;
+}
+header{
+     color: white;
+     background-color: #FB6514;
+} 
+.offcanvas{
+   background-color: #FB6514;
+    color: white;
+    
+}
+.imgd{
+    background-image: url(img1.jpeg);
+}
+.imgd hr{
+    color: white;
+    
+}
+.collapse a{
+    text-decoration: none;
+    color: white;
+    
+}
+/* .carousel-inner{
+    margin-left: 150px;
+    width: 450px;
+    margin-top: 0px;
+    
+} */
+.counterSection h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+    
+}
+.counterSection{
+    border-radius: 5px;
+     text-align: center;
+     justify-content: center;
+     /* background-color: #FB6514; */
+     background: rgb(243,200,21);
+     background: radial-gradient(circle, rgba(243,200,21,1) 0%, rgba(251,101,20,1) 100%);
+     color: white;
+}
+.counterSection p{
+    color: white;
+}
+/* .boxd{
+    border: 2px solid black;
+    padding: 10px;
+    
+} */
+.keyLang h2{
+    background-color: #FB6514;
+    color: white;
+    border-radius: 5px;
+   
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+
+}
+.bgk{
+   background-color: #F2F4F7;
+   
+   border-radius: 50px;
+}
+ 
+.keyLang p{
+    color: black;
+}
+.bgk h4{
+    color: #FB6514;
+}
+ 
+.keyLang a{
+    text-decoration: none;
+    color: #FB6514;
+}
+.KEYs p{
+    color: black;
+}
+ 
+.KEYs{
+    background-color: #F2F4F7;
+   border-radius: 50px; 
+}
+.edsec{
+    background-color: #F2F4F7;
+     
+    padding: 40px;
+    border-radius: 50px;
+}
+.edsec dt{
+    color: #FB6514;
+}
+.edsec dd{
+    color: black;
+}
+.persec{
+    background-color: #F2F4F7;
+     
+    padding: 40px;
+    border-radius: 50px;
+}
+.persec dt{
+    color: #FB6514;
+}
+.persec dd{
+    color: black;
+}
+.perInfo{
+    background-color: #FB6514;
+      
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+.abtsec mark{
+    background-color: #a497e7;
+}
+ .bannerForm{
+    
+    border-radius: 10px;
+   background-image: url(img1.jpeg);
+     
+   /* background-color: white; */
+  
+} 
+ .bannerForm h3{
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+} 
+.bannerForm p{
+    text-align: center;
+}
+.bannerForm button{
+    
+    background: linear-gradient(to right ,#797a71,#c4baab);
+    color: white;
+    border-radius: 5px;
+    border: none;
+} 
+footer{
+    background-color: #e15c14;
+    color: white;
+     
+    text-align: center;
+    margin-top: 100px;
+}
+.btnfeed{
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid black;
+    color: white;
+    border: none;
+}
+.keyskill a{
+    text-decoration: none;
+    color: white;
+}

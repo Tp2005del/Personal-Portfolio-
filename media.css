@@ -1,0 +1,20 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+     .offcanvas-header img{
+        justify-items: center;
+        margin-left: 150px;
+     }
+      
+}
+   
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1170px;
+    }
+    .carousel-inner{
+        margin-left: 250px;
+        width: 450px;
+        margin-top: 0px;
+        
+    }
+}
